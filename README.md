@@ -5,7 +5,7 @@ This project highlights how to leverage a ChromaDB vector store in a Langchain p
 1. Create a virtual environment `python -m venv langchainenv`
 2. Activate it: 
    - Windows:`.\langchainenv\Scripts\activate`
-   - Mac: `source langchain/bin/activate'
+   - Mac: `source langchain/bin/activate`
 3. Clone this repo `git clone https://github.com/nicknochnack/LangchainDocuments`
 4. Go into the directory `cd LangchainDocuments`
 5. Install the required dependencies `pip install -r requirements.txt`
